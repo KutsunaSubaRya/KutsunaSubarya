@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm SubaRya - 蘇子權</h1>
 <h3 align="center">A CSIE student from National Taiwan Normal University (NTNU).</h3>
 
-- 🌱 I’m currently learning **『C/C++, Python, Vue.js, TypeScript, **
+- 🌱 I’m currently learning **C/C++, Python, Vue.js, TypeScript**
 
 - 📝 I write articles on [スバリャノブログ](https://blog.subarya.me/)
 
