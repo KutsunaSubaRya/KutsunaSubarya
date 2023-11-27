@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm SubaRya - 蘇子權</h1>
 <h3 align="center">A CSIE student from National Taiwan Normal University (NTNU).</h3>
 
+<p align="center">Love develop project to solve problems. Additionally, I enjoy self researching and sharing my findings !</p>
+
+## 👤 Some link to know more about me
 - 📝 I write articles on [スバリャノブログ](https://blog.subarya.me/)
+- 🎮 I enjoy playing games and recording my gameplay, and this is my YT channel: [SubaRya Gaming](https://www.youtube.com/channel/UCP5RrHApbhRSY-UMlCkkpgw)
 
 ## 🌱 Skill Tree:
 - Frequently used: C / C++ / Python / TypeScript / HTML / CSS /
@@ -63,6 +67,12 @@ Here are some ideas to get you started:
 
 <h2 align="center">Github Stat</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KutsunaSubaRya&show_icons=true" alt="KutsunaSubaRya" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=KutsunaSubaRya&theme=merko&show_icons=true" alt="SubaRya Github Stat" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=KutsunaSubaRya&show_icons=true" alt="KutsunaSubaRya" /></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KutsunaSubaRya&theme=dark" alt="GitHub Streak" /></a></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KutsunaSubaRya&theme=merko&show_icons=true&layout=compact" alt="SubaRya Top Lang" /></p>
+
+<h2 align="center">LeetCode Stat</h2>
+
+<p align="center"><img src="https://leetcard.jacoblin.cool/SubaRya?font=milonga" alt="SubaRya LeetCode" /></p>
