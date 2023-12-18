@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 * 2022 National Taiwan Normal University Computer Science and Information Engineering (NTNU CSIE) Camp - 教學股 股長兼任 Lecturer
 
 ## 🧩 Other
-* 2022 國立臺灣師範大學運動會男乙鉛球 第二名
-* 2022 國立臺灣師範大學運動會男乙手球擲遠 第六名
+* 2023 國立臺灣師範大學運動會男乙鉛球 第二名
+* 2023 國立臺灣師範大學運動會男乙手球擲遠 第六名
 * 2022 國立臺灣師範大學運動會男乙鉛球 第二名
 * 2022 國立臺灣師範大學運動會男乙手球擲遠 第二名
 * 2021 國立臺灣師範大學運動會男乙手球擲遠 第六名
