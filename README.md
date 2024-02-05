@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - Used Most FrameWork: Vue.js / Flask
 
 ## 🏆 Accomplishments
+* 2024 第一屆教育數據啟航創意黑客松 晉級決賽/佳作獎
 * 2023 IEEE Conference on Games 6th annual GDMC - AI settlement generation competition in minecraft First Place (1st Place): [Award Link](https://gendesignmc.wikidot.com/wiki:2023-settlement-generation-competition#toc19) and [Paper Link](https://gendesignmc.wdfiles.com/local--files/wiki:2023-settlement-generation-competition/JEB_GEN_writeup%5B1%5D.pdf)
 * 2023 ICPC Asia Taiwan Online Programming Contest (TOPC Nationwide：75 Bronze Medal)
 * 2023 National Taiwan Normal University Computer Science and Information Engineering Project Competition 3rd place (傑出專題獎)
