@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 * Private Shi-Yu High School (新北市私立時雨高中)
 * The Junior High Division of The Private Shi-Yu High School (新北市私立時雨高中附設國中部)
 
-## 🗣️ Open Scource Contribution or Social Network
+## 🗣️ Open Source Contribution or Social Network
 * 2023 Github jc [issues](https://github.com/kellyjonbrazil/jc/issues/395)
 * 2022/09 - 2023/06 NTNU CSIE Teaching Assistant of Computer Programming [I](https://sites.google.com/gapps.ntnu.edu.tw/neokent/teaching/past-courses/2022fall-computer-programming-i)、[II](https://sites.google.com/gapps.ntnu.edu.tw/neokent/teaching/2023spring-computer-programming-ii) Course
 * 2022 National Taiwan Normal University Computer Science and Information Engineering (NTNU CSIE) Camp - 教學股 股長兼任 Lecturer
