@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ## 🏆 Accomplishments
 * 2024 第一屆教育數據啟航創意黑客松 晉級決賽/佳作獎
 * 2023 IEEE Conference on Games 6th annual GDMC - AI settlement generation competition in minecraft First Place (1st Place): [Award Link](https://gendesignmc.wikidot.com/wiki:2023-settlement-generation-competition#toc19) and [Paper Link](https://gendesignmc.wdfiles.com/local--files/wiki:2023-settlement-generation-competition/JEB_GEN_writeup%5B1%5D.pdf)
-* 2023 National Science and Technology Council (國家科學及技術委員會) [112 年度大專生研究計畫獲得補助](https://wsts.nstc.gov.tw/STSWeb/Award/AwardMultiQuery.aspx) - 計畫名稱：Generative Design in Minecraft Competition，計畫編號：`112-2813-C-003-050-E`
+* 2023 National Science and Technology Council (國家科學及技術委員會) [112 年度大專生研究計畫](https://wsts.nstc.gov.tw/STSWeb/Award/AwardMultiQuery.aspx)獲得補助 - 計畫名稱：Generative Design in Minecraft Competition，計畫編號：`112-2813-C-003-050-E`
 * 2023 ICPC Asia Taiwan Online Programming Contest (TOPC Nationwide：75 Bronze Medal)
 * 2023 National Taiwan Normal University Computer Science and Information Engineering Project Competition 3rd place (傑出專題獎)
 * 2022 ICPC Asia Taoyuan Regional Programming Contest (ICPC Regional：60 Bronze Medal)
