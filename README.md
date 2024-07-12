@@ -24,8 +24,13 @@ Here are some ideas to get you started:
 - 🎮 I enjoy playing games and recording my gameplay, and this is my YT channel: [SubaRya Gaming](https://www.youtube.com/channel/UCP5RrHApbhRSY-UMlCkkpgw)
 
 ## 🌱 Skill Tree:
-- Frequently used: C / C++ / Python / TypeScript / HTML / CSS /
-- Used Most FrameWork: Vue.js / Flask
+- Frequently used: C / C++ / Python / TypeScript / HTML / CSS / Tailwind CSS
+- Used Most FrameWork: Vue.js / Nuxt3 / Flask
+- UI/UX Framework: Element Plus / TDesign / PrimeVue
+- API: RESTful
+- Database: SQLite / MySQL
+- CI/CD: GitHub Action
+- Other: GitHub / Docker / Linux / Selenium / Linear / Trello
 
 ## 🏆 Accomplishments
 * 2024 第一屆教育數據啟航創意黑客松 晉級決賽/佳作獎
