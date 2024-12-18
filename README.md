@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 * 2015 National Problem Solving Contest on Internet (NPSC) (Final 優勝)
 
 ## 🏢 Intern
-* 2024 07-now [Leju Company](https://www.leju.com.tw/) R&D Engineering Department Intern 
+* 2024 07-12 [Leju Company](https://www.leju.com.tw/) R&D Engineering Department Intern 
 
 ## 🏫 Education
 * National Taiwan Normal University Computer Science and Information Engineering
