@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - Database: SQLite / MySQL
 - CI/CD: GitHub Action
 - Other: GitHub / Docker / Linux / Selenium / Linear / Trello
+- Currently Learning: GoLang / GoFrame / Full-stack Deployment with Nginx & CI/CD on Ubuntu
 
 ## 🏆 Accomplishments
 * 2024 第一屆教育數據啟航創意黑客松 晉級決賽/佳作獎
