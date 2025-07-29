@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 - Other: GitHub / Docker / Linux / Selenium / Linear / Trello
 - Currently Learning: GoLang / GoFrame / Full-stack Deployment with Nginx & CI/CD on Ubuntu
 
+## 🌐 Service Experience
+* 2024 11 ~ Now: Full-Stack Developer & DevOps Support, Augmented Cognition STEM Remote Collaboration Platform (pt4fun Team in NTNU TAHRD)
+  * Developed and operated the platform's full-stack architecture for digital learning.
+* 2025 07/14-07/18: Instructor, Linkou Junior High School STEM Camp (Living Technology)
+* 2025 06: OJ Platform Administrator & Problem Setter, Zhonglun High School Computer Science Competition (校內資訊學科能力競賽選拔)
+
 ## 🏆 Accomplishments
 * 2024 第一屆教育數據啟航創意黑客松 晉級決賽/佳作獎
 * 2023 IEEE Conference on Games 6th annual GDMC - AI settlement generation competition in minecraft First Place (1st Place): [Award Link](https://gendesignmc.wikidot.com/wiki:2023-settlement-generation-competition#toc19) and [Paper Link](https://gendesignmc.wdfiles.com/local--files/wiki:2023-settlement-generation-competition/JEB_GEN_writeup%5B1%5D.pdf)
