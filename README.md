@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 * 2024 11 ~ Now: Full-Stack Developer & DevOps Support, Augmented Cognition STEM Remote Collaboration Platform (pt4fun Team in NTNU TAHRD)
   * Developed and operated the platform's full-stack architecture for digital learning.
 * 2025 07/14-07/18: Instructor, Linkou Junior High School STEM Camp (Living Technology)
-* 2025 06: OJ Platform Administrator & Problem Setter, Zhonglun High School Computer Science Competition (校內資訊學科能力競賽選拔)
+* 2025 06: 2025: OJ Platform Architect & Problem Author, Zhonglun High School Computer Science Competition (校內資訊學科能力競賽選拔)
+  * Provided **technical expertise** for the setup and configuration of the Online Judge (OJ) platform and created **competition problems**.
 
 ## 🏆 Accomplishments
 * 2024 第一屆教育數據啟航創意黑客松 晉級決賽/佳作獎
