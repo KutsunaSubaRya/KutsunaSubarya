@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm SubaRya - 蘇子權</h1>
-<h3 align="center">A CSIE student from National Taiwan Normal University (NTNU).</h3>
+<h3 align="center">A CSIE graduate from National Taiwan Normal University (NTNU).</h3>
 
 <p align="center">Love develop project to solve problems. Additionally, I enjoy self researching and sharing my findings !</p>
 
