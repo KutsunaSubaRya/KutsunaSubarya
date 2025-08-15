@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 - API: RESTful
 - Database: SQLite / MySQL
 - CI/CD: GitHub Action
-- Other: GitHub / Docker / Linux / Selenium / Linear / Trello
-- Currently Learning: GoLang / GoFrame / Full-stack Deployment with Caddy & Gitlab CI/CD on Ubuntu
+- Other: GitHub / Docker / Linux / Selenium / Linear / Trello / Clickup
+- Currently Learning: Go / GoFrame / Shell Scripting (Bash) / Full-stack Deployment with Caddy & Gitlab CI/CD on Ubuntu
 
 ## 🌐 Service Experience
 * 2024 11 ~ Now: Full-Stack Developer & DevOps Support, Augmented Cognition STEM Remote Collaboration Platform (pt4fun Team in NTNU TAHRD)
