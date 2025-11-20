@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 👤 Some link to know more about me
 - 📝 I write articles on [スバリャノブログ](https://blog.subarya.me/)
-- 🎮 I enjoy playing games and recording my gameplay, and this is my YT channel: [SubaRya Gaming](https://www.youtube.com/@subaryagaming)
+- 🎮 I enjoy playing games and recording my gameplay!
 
 ## 🌱 Skill Tree:
 - Frequently used: C / C++ / Python / TypeScript / HTML / CSS / Tailwind CSS
