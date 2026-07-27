@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## 🌱 Skill Tree:
 - Frequently used: C / C++ / Python / TypeScript / HTML / CSS / Tailwind CSS
 - Used Most FrameWork: Vue.js / Nuxt3 / Flask
-- UI/UX Framework: Element Plus / TDesign / PrimeVue
+- UI/UX Framework: Element Plus / TDesign / PrimeVue / Nuxt UI
 - API: RESTful
 - Database: SQLite / MySQL
 - CI/CD: GitHub Action
