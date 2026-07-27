@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 - Currently Learning: Go / GoFrame / Shell Scripting (Bash) / Full-stack Deployment with Caddy & Gitlab CI/CD on Ubuntu
 
 ## 🌐 Service Experience
+* 2025 08 ~ Now: Information Technology Long-term Substitute Teacher, New Taipei Municipal Wugu Junior High School
 * 2024 11 ~ Now: Full-Stack Developer & DevOps Support, Augmented Cognition STEM Remote Collaboration Platform (pt4fun Team in NTNU TAHRD)
   * Developed and operated the platform's full-stack architecture for digital learning.
 * 2025 07/14-07/18: Instructor, Linkou Junior High School STEM Camp (Living Technology)
